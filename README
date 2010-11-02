@@ -1,1 +1,3 @@
 Dumb temporary RACK app, waiting for the deployment of your brand new app.
+
+Run with rackup. Works nice with Heroku ;)
